@@ -8,21 +8,7 @@ return `「 *PRICE LIST* 」
 ⬡ 3 MINGGU = ${___minggu}
 ⬡ 1 BULAN = ${_bulan}
 ⬡ PERMANEN = ${_permanen}
-⬡ PERMANEN + USER PREM = ${__permanen}
-
-
-⬣ PRICE JADIBOT
-
-⬡ JADI BOT PERMANEN 25K
-
-
-⬣ MINAT? PM
-⬡ wa.me/62887435047326
-
-
-NOTE : 
-Bot On 24 Jam Karna Di Run Menggunakan Heroku
-Reset Data Setiap Jam 02:00 `
+⬡ PERMANEN + USER PREM = ${__permanen}`
 	}
 
 exports.pc_sewa = pc_sewa
